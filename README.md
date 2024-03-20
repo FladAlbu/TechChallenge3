@@ -25,7 +25,7 @@ O resultado da nossa analise está focado em dois entregáveis:
 https://app.powerbi.com/view?r=eyJrIjoiNDY0NGZlOWEtNjM3ZS00YzA2LTg0YTAtNjJlNTcxMTcyOGQyIiwidCI6IjYxZGU2MGQ0LTg0NTktNGQwNC04NzVlLTEzMTA2YzBmMzFiNyJ9
 
 - PDF dos resultados
-Relatório PNAD-COVID19.pdf
+[Relatório PNAD-COVID19.pdf](https://github.com/FladAlbu/TechChallenge3/blob/main/Relat%C3%B3rio%20PNAD-COVID19.pdf)
 
 ## Contribuições
 Contribuições são sempre bem-vindas. Para contribuir:
