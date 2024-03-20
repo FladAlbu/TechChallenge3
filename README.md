@@ -34,4 +34,4 @@ Contribuições são sempre bem-vindas. Para contribuir:
 5. Abra um Pull Request.
 
 ## Link do GitHub:
-https://github.com/tupizz/IbovespaFIAP/tree/main
+https://github.com/FladAlbu/TechChallenge3/tree/main
