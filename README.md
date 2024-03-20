@@ -12,6 +12,8 @@
 ## Descrição
 Para entendermos bem o que aconteceu no passado, iniciamos a construção do problema. A premissa era utilizar no máximo 20 questionamentos da pesquisa, quais eram os sintomas, o que a população fez durante a pandemia e as características econômicas das pessoas.
 
+Dentro da página Exploratório possuímos os arquivos que utilizamos para entender o problema, mapa mental, fluxogramas, etc.
+
 ## Link dos nossos relatórios:
 O resultado da nossa analise está focado em dois entregáveis, o relatório PowerBI:
 https://app.powerbi.com/view?r=eyJrIjoiNDY0NGZlOWEtNjM3ZS00YzA2LTg0YTAtNjJlNTcxMTcyOGQyIiwidCI6IjYxZGU2MGQ0LTg0NTktNGQwNC04NzVlLTEzMTA2YzBmMzFiNyJ9
