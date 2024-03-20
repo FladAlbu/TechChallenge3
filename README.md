@@ -19,10 +19,12 @@ Para o entendimento do problema utilizamos várias técnicas, iniciamos utilizan
 Na pasta "Exploratório" estão os arquivos que utilizamos para entender o problema, mapa mental, fluxogramas, etc.
 
 ## Link dos nossos relatórios:
-O resultado da nossa analise está focado em dois entregáveis, o relatório PowerBI:
+O resultado da nossa analise está focado em dois entregáveis:
+
+- Relatório PowerBI
 https://app.powerbi.com/view?r=eyJrIjoiNDY0NGZlOWEtNjM3ZS00YzA2LTg0YTAtNjJlNTcxMTcyOGQyIiwidCI6IjYxZGU2MGQ0LTg0NTktNGQwNC04NzVlLTEzMTA2YzBmMzFiNyJ9
 
-PDF dos resultados:
+- PDF dos resultados
 Relatório PNAD-COVID19.pdf
 
 ## Contribuições
