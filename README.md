@@ -12,7 +12,10 @@
 ## Descrição
 Para entendermos bem o que aconteceu no passado, iniciamos a construção do problema. A premissa era utilizar no máximo 20 questionamentos da pesquisa, quais eram os sintomas, o que a população fez durante a pandemia e as características econômicas das pessoas.
 
-Dentro da página Exploratório possuímos os arquivos que utilizamos para entender o problema, mapa mental, fluxogramas, etc.
+## Análise do problema
+Para o entendimento do problema utilizamos várias técnicas, iniciamos utilizando mapas mentais e fluxogramas para entender os objetivos e as restrições do projeto, após isto exploramos os dados disponíveis pelo IBGE no BigQuery(https://console.cloud.google.com/bigquery?p=basedosdados&d=br_ibge_pnad_covid&t=microdados&page=table&project=leafy-acumen-416820&ws=!1m19!1m4!4m3!1sbasedosdados!2sbr_ibge_pnad_covid!3smicrodados!1m4!1m3!1sleafy-acumen-416820!2sbquxjob_596ca959_18e519be44f!3sUS!1m4!4m3!1sbasedosdados!2sbr_ibge_pnad_covid!3sdicionario!1m3!3m2!1sbasedosdados!2sbr_ibge_pnad_covid)
+
+Na pasta "Exploratório" estão os arquivos que utilizamos para entender o problema, mapa mental, fluxogramas, etc.
 
 ## Link dos nossos relatórios:
 O resultado da nossa analise está focado em dois entregáveis, o relatório PowerBI:
